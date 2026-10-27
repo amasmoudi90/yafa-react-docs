@@ -20,6 +20,7 @@ export default defineConfig({
           { text: 'البداية', link: '/guide/getting-started' },
           { text: 'الإعدادات', link: '/guide/settings' },
           { text: 'عناصر الرئيسية', link: '/guide/home-blocks' },
+          { text: 'المعرض', link: '/guide/gallery' },
           { text: 'الدعم', link: '/support' },
         ],
         sidebar: [
@@ -29,6 +30,7 @@ export default defineConfig({
               { text: 'البداية السريعة', link: '/guide/getting-started' },
               { text: 'إعدادات الثيم', link: '/guide/settings' },
               { text: 'عناصر الصفحة الرئيسية', link: '/guide/home-blocks' },
+              { text: 'معرض الثيم', link: '/guide/gallery' },
               { text: 'صفحات المتجر', link: '/guide/pages' },
               { text: 'المحتوى بلغتين', link: '/guide/languages' },
               { text: 'الأسئلة الشائعة', link: '/guide/faq' },
@@ -66,6 +68,7 @@ export default defineConfig({
           { text: 'Getting started', link: '/en/guide/getting-started' },
           { text: 'Settings', link: '/en/guide/settings' },
           { text: 'Home blocks', link: '/en/guide/home-blocks' },
+          { text: 'Gallery', link: '/en/guide/gallery' },
           { text: 'Support', link: '/en/support' },
         ],
         sidebar: [
@@ -75,6 +78,7 @@ export default defineConfig({
               { text: 'Getting started', link: '/en/guide/getting-started' },
               { text: 'Theme settings', link: '/en/guide/settings' },
               { text: 'Home page blocks', link: '/en/guide/home-blocks' },
+              { text: 'Theme gallery', link: '/en/guide/gallery' },
               { text: 'Store pages', link: '/en/guide/pages' },
               { text: 'Content in two languages', link: '/en/guide/languages' },
               { text: 'FAQ', link: '/en/guide/faq' },
