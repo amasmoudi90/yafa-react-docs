@@ -21,7 +21,7 @@ Most blocks have these fields:
 A professional banner slider: per banner a computer image and a phone image, a title and description in the size and colour you choose, an animated button with a link, the content's position (top / middle / bottom, start / centre / end) and an optional side image next to the text. Ideal as the first block of the page.
 
 ::: tip Suggested sizes
-About 1920×800 for the computer image and 800×1000 for the phone image.
+2100×800 for the computer image and 800×1200 for the phone image. At these sizes the store reserves the banner's space before the image loads, so the page does not move while it loads.
 :::
 
 ### Banner builder (grid)
